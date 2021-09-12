@@ -1,13 +1,13 @@
 # US_Traffic_2015
 Exploration of the US Traffic 2015 dataset present in Kaggle: https://www.kaggle.com/jboysen/us-traffic-2015
 
-Important Information:
+**Important Information:**
 
-1. Code for Data Exploration and Visualisation: 1_Data_Exploration_and_Visualization.ipynb
-2. Code for Predictive Model Development and Validation: 2_Predictive_Model_Development_and_Validation.ipynb
-3. Documentation of the entire project: US_Traffic_2015_Exploration_Documentation.docx
+1. **Code for Data Exploration and Visualisation:** 1_Data_Exploration_and_Visualization.ipynb
+2. **Code for Predictive Model Development and Validation:** 2_Predictive_Model_Development_and_Validation.ipynb
+3. **Documentation of the entire project:** US_Traffic_2015_Exploration_Documentation.docx
 
-Prerequisites to Run the Codes:
+**Prerequisites to Run the Codes:**
 
 1. Clone the entire repository.
 2. Please download the two .gz compressed datasets (dot_traffic_2015.txt and dot_traffic_stations_2015.txt) from the the Kaggle URL mentioned above, and dump the datasets within ./Data/ folder.
